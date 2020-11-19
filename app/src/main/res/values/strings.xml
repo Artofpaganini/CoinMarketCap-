@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CoinMarketCap</string>
+    <string name="coin_name">Coin</string>
+    <string name="coin_symbol">SYMBOL</string>
+    <string name="usd_symbol">$</string>
+    <string name="some_price">322</string>
+    <string name="id">#Id</string>
+    <string name="price">Price</string>
+    <string name="_24h">24h</string>
+    <string name="_7d">7d</string>
+    <string name="market_cap">Market cap</string>
+    <string name="id_coin">#ID</string>
+    <string name="slash">|</string>
+    <string name="btc">BTC</string>
+    <string name="sum">1000</string>
+    <string name="_24h_coin">24h</string>
+    <string name="_7d_coin">7d</string>
+    <string name="market_cap_coin">Market Cap</string>
+    <string name="back_to_list">BACK TO LIST</string>
+    <string name="show_favorite">SHOW FAVORITE</string>
+    <string name="delete_all_positions">Delete all Positions</string>
+</resources>

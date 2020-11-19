@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ten_dp">10dp</dimen>
+    <dimen name="coin_rv_height">150dp</dimen>
+    <dimen name="rv_linear_width">85dp</dimen>
+    <dimen name="margin_start">10dp</dimen>
+    <dimen name="margin_top_5">5dp</dimen>
+    <dimen name="tw_width_75">75dp</dimen>
+    <dimen name="linear_width_200">200dp</dimen>
+    <dimen name="image_width">20dp</dimen>
+    <dimen name="image_heigth">20dp</dimen>
+    <dimen name="star_linear_width">95dp</dimen>
+    <dimen name="margin_start_image_35">35dp</dimen>
+    <dimen name="margin_top_image_40">40dp</dimen>
+    <dimen name="btn_width_208">208dp</dimen>
+    <dimen name="btn_width_200">200dp</dimen>
+</resources>
