@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usd_symbol">$</string>
+    <string name="price">Price</string>
+    <string name="_24h">24h</string>
+    <string name="_7d">7d</string>
+    <string name="market_cap">Market cap</string>
+    <string name="id_coin">#ID</string>
+    <string name="slash">|</string>
+    <string name="btc">BTC</string>
+    <string name="sum">1000</string>
+    <string name="_24h_coin">24h</string>
+    <string name="_7d_coin">7d</string>
+    <string name="market_cap_coin">Market Cap</string>
+    <string name="back_to_list">BACK TO LIST</string>
+    <string name="show_favorite">SHOW FAVORITE</string>
+</resources>
