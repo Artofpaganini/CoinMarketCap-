@@ -7,6 +7,9 @@ import by.andersen.intern.dobrov.di.DaggerAppComponent
 
 class BaseApp : Application() {
 
+
+
+    //todo  какой то коммит
     override fun onCreate() {
         super.onCreate()
         appComponent = DaggerAppComponent.builder().application(this).build()
